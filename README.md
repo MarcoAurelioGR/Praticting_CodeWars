@@ -1,6 +1,8 @@
 # Praticting_CodeWars
 O objetivo armazenar e compartilhar minhas soluções em Python para os desafios do CodeWars, um site que oferece problemas de programação.
 
+<a href="https://www.codewars.com/users/MarcoAurelioGR" target="_blank"><img src="https://img.shields.io/badge/-CodeWars-%23333?style=for-the-badge&logo=codewars" target="_blank"></a> 
+
 ## Problemas Resolvidos
 Calculating with Functions
 
